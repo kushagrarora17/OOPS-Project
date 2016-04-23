@@ -39,6 +39,6 @@ class innings2:public innings1{
 //innings1::balls=3;
 //innings2::balls=7;
 int main(){
-	cout<<one.balls<<two.balls;
+	
 	return 0;
 }
